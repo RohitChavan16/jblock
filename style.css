@@ -1,0 +1,136 @@
+.jBlock {
+    height: 39px;
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 6px;
+    margin-right: 8px;
+}
+.container {
+    background-color: rgb(241, 236, 236);
+    border: 2px solid black;
+    display: flex;
+    width: 160px;
+    height: 67px;
+    border-radius: 30px;
+    margin-top: 7px;
+}
+H2 {
+    font-size: 25px;
+    font-family: Arial;
+    color: rgb(246, 134, 23) ;
+    -webkit-text-stroke: 1px rgb(230, 23, 23);
+    margin-top: 20px;
+}
+
+.slide {
+    display: flex;
+    flex-direction: row;
+  padding: 6px;
+} 
+.nav {
+    border: 2px ;
+    height: 89px;
+    width: 1600px;
+    display: flex;
+    flex-direction: row;
+    gap: 280px;
+    background-color:rgba(88, 4, 58, 0.748);
+    box-shadow: 0px  10px 13px rgb(147, 146, 145);
+    box-sizing: border-box;
+}
+#complex {
+    margin-top: 25px;
+    display: flex;
+   gap: 150px;
+   list-style-type: none; 
+}
+a {
+    text-decoration: none;
+    color: rgb(173, 172, 172);
+    font-family: Tahoma;
+}
+a:hover {
+    color:rgb(255, 255, 255);
+}
+ * {
+    margin-left: 0px;
+    margin-top: 0px;
+ }
+ .box1 {
+   
+ }
+ .box2{
+    
+ }
+ .box3{
+    
+ }
+ .box4{
+    
+ }
+ .box5{
+    
+ }
+ 
+ body {
+    background-color:antiquewhite;
+ }
+ .text {
+    font-size: 2.5ch; 
+    border: 3px solid black;
+    width: 500px;
+    height: 300px;
+    margin-left: 960px; 
+    margin-top: 80px;
+    padding: 13px;
+    font-family: Tahoma;
+    background-color:rgba(134, 247, 247, 0.623);
+ }
+ .line {
+    margin-top: 90px;
+    height: 7px;
+   background-color:rgb(137, 137, 134);
+   margin-left: 15px;
+   border-radius: 50px;
+ }
+ .j1 {
+    border: 2px solid black;
+    margin-top: 10px;
+    font-size:larger;
+    margin-left: 20px;
+    width: 50px;
+    height: 28px;
+    padding: 13px;
+    font-family: ARial;
+    text-align:center;
+ }
+ .tirupati {
+    margin-top: 30px;
+    height: 200px;
+    border-radius: 50px;
+    border: 3px solid blueviolet;
+ }
+ .text1 {
+    font-size: larger;
+    font-family: Verdana;
+    display: flex;
+    flex-direction: row;
+    margin-left: 290px;
+    margin-top: 50px;
+ }
+ .text1bio {
+    font-size:medium;
+    margin-left: -240px;
+    margin-top: 30px;
+
+ }
+ marquee {
+    height: 50px;
+    margin-top: 50px;
+    border: 3px solid black;
+    font-size: 3ch;
+
+ }
+ .scroll {
+    margin-top: 8px;
+ }
